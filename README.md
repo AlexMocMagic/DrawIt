@@ -1,3 +1,9 @@
+# DrawIt project
+
+![Screenshot 2024-05-28 180755](https://github.com/AlexMocMagic/DrawIt/assets/126344692/c921de80-c571-49f7-8908-b85e9b5c1fa6)
+![Screenshot 2024-05-28 180806](https://github.com/AlexMocMagic/DrawIt/assets/126344692/57e0d400-5f4d-4844-bdf0-5e98aef7405e)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
